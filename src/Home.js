@@ -13,6 +13,12 @@ const Home = () => {
             <Link to="/filter" style={{marginRight:'5px'}}>
                 <button>FilterSearch</button>
             </Link>
+            <Link to="/useEffectHook" style={{marginRight:'5px'}}>
+                <button>useEffectHook</button>
+            </Link>
+            <Link to="/counter" style={{marginRight:'5px'}}>
+                <button>Counter</button>
+            </Link>
 
         </div>
     )
